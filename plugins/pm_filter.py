@@ -368,7 +368,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('🕵 Go Inline', switch_inline_query='')
             ],[
             InlineKeyboardButton('⭕ Support ⭕', url='t.me/OFF_CHATS'),
-            InlineKeyboardButton('⭕ Updates ⭕', url='https://t.me@team_silent_king')
+            InlineKeyboardButton('⭕ Updates ⭕', url='https://t.me/team_silent_king')
             ],[
             InlineKeyboardButton('🆘 Help', callback_data='help'),
             InlineKeyboardButton('👥 About', callback_data='about')
