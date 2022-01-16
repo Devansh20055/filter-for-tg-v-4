@@ -12,8 +12,7 @@ class script(object):
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v4.1 """
     SOURCE_TXT = """<b>NOTE:</b>
 - ALL MATERIAL & MOVIES STORE is a open source project. 
-- Source - YOU CAN ASK US HERE :- @OFF_CHATS 
-\n\n JOIN :- @TEAM_SILENT_KING TO USE ME
+- Source - YOU CAN ASK US HERE :- @OFF_CHATS \n\n JOIN :- @TEAM_SILENT_KING TO USE ME
 
 <b>DEVS:</b>
 - <a href=https://t.me/ITS_NOT_ROMEO>@ITS_NOT_ROMEO</a>"""
