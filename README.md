@@ -1,2 +1,2 @@
-USE V5 https://github.com/Devansh20055/HUEHUE2
+USE V6(BETA) https://github.com/Devansh20055/ITS-ANYA
 OR DEPLY MANUALY READ APP.JOSON FOR VARS
